@@ -30,7 +30,7 @@ DEBUG = config('DEBUG', default=True, cast=bool) # True
 if 'RDS_DB_NAME' in os.environ:
     ALLOWED_HOSTS = ['greatkart-app-env.eba-cbrakebt.us-west-2.elasticbeanstalk.com']
 else:
-    ALLOWED_HOSTS = ['127.0.0.1']
+    ALLOWED_HOSTS = ['*']
 
 
 # Application definition
