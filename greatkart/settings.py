@@ -29,7 +29,7 @@ DEBUG = config('DEBUG', default=True, cast=bool) # True
 
 #'greatkart-app-env.eba-cbrakebt.us-west-2.elasticbeanstalk.com'
 
-ALLOWED_HOSTS = ['greatkart-app-env.eba-cbrakebt.us-west-2.elasticbeanstalk.com', "*"]
+ALLOWED_HOSTS = ['greatkart-app-env.eba-cbrakebt.us-west-2.elasticbeanstalk.com']
 
 # Application definition
 
