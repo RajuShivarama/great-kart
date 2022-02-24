@@ -2,7 +2,7 @@
 
 GreatKart is an ecommerce website aiming to serve the people on Internet.
 
-#### Project Requirements: https://greatkarthub.herokuapp.com/
+#### Live Demo: https://greatkarthub.herokuapp.com/
 
 #### Project Requirements
 - the entire member screen data is controlled by an admin panel.
