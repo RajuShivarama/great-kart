@@ -1,5 +1,5 @@
 ### GreatKart!!
-https://carzoneap.herokuapp.com/
+https://greatkarthub.herokuapp.com/
 
 GreatKart is an ecommerce website aiming to serve the people on Internet.
 
