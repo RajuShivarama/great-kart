@@ -60,4 +60,3 @@ GreatKart is an ecommerce website aiming to serve the people on Internet.
 
 ![Alt text](/greatkart_previews/11.png "Optional title")
 
-![Alt text](/greatkart_previews/12.png "Optional title")
