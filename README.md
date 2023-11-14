@@ -2,8 +2,6 @@
 
 GreatKart is an ecommerce website aiming to serve the people on Internet.
 
-#### Live Demo: https://greatkarthub.herokuapp.com/
-
 #### Project Requirements
 - the entire member screen data is controlled by an admin panel.
 - Admin panel should be built with high security.
@@ -37,5 +35,29 @@ GreatKart is an ecommerce website aiming to serve the people on Internet.
   Production tools:- AWS Elastic Beanstalk[EC2, S3, RDS, Route53 and Certificate Manager]
   
   #### Preview
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart_previews/Screenshot (193).png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
+
+![Alt text](/greatkart.png "Optional title")
 
 ![Alt text](/greatkart.png "Optional title")
