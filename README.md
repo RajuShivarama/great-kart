@@ -38,26 +38,26 @@ GreatKart is an ecommerce website aiming to serve the people on Internet.
 
 ![Alt text](/greatkart.png "Optional title")
 
-![Alt text](/1.png "Optional title")
+![Alt text](/greatkart_previews/1.png "Optional title")
 
 ![Alt text](/greatkart_previews/2.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/3.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/4.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/5.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/6.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/7.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/8.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/9.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/10.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/11.png "Optional title")
 
-![Alt text](/greatkart.png "Optional title")
+![Alt text](/greatkart_previews/12.png "Optional title")
